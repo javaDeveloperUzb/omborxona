@@ -1,0 +1,19 @@
+GET http://localhost/inputProduct
+Accept: application/json
+
+###
+
+GET http://localhost/inputProduct
+Accept: application/json
+
+<> 2022-03-03T043732.200.json
+
+###
+
+GET http://localhost/inputProduct
+Accept: application/json
+
+<> 2022-03-03T043611.200.json
+
+###
+
